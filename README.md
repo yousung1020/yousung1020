@@ -8,5 +8,5 @@
 
 ## Using language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)](https://github.com/yousung1020/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousung1020&layout=compact)](https://github.com/yousung1020/github-readme-stats)
 
