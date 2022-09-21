@@ -1,6 +1,6 @@
 # My introduction
 
-## Hello! Im an aspiring student Server Developer!
+## Hello! I'm an aspiring student Server Developer!
 
 ## My status
 
