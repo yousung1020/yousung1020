@@ -10,10 +10,8 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 social </h2> <br> 
     <div align= "center"> <a href=https://shootingstar-1117.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://shootingstar-1117.tistory.com"> </a>
-          </div>  <br> 
-    <h2 > 📌 Using language </h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousung1020&layout=compact">
-    <div align= "center">  </div> 
-    </div>
+
+  
+
